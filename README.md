@@ -2,15 +2,14 @@
 Some LoRa projects w/ Meshtastic
 
 ## How <br>
-<img src="pic/HowDoesDucksWork.jpg" width=400/> <img src="pic/2022DaKao1500Drones.png" width=400/>
-<br>
+<img src="pic/xyz.jpg" width=400/>
 <br><br>
-<img src="pic/MamaDuck_TTGO-LoRa32.png" width=320/> <br>
- <br>
+<br>
 <br><br>
 
 ## Reference
 [Meshtastic Device GitHub](https://github.com/meshtastic/Meshtastic-device) <br>
+[Meshtastic packet](https://meshtastic.org/docs/developers/device/mesh-alg) <br>
 [Heltec CubeCell Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino) <br>
 [Heltec CubeCell PlatformIO ASR650x](https://github.com/HelTecAutomation/platform-asrmicro650x) <br>
 [RadioLib](https://github.com/jgromes/RadioLib) <br>
