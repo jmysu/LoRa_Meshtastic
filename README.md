@@ -10,7 +10,7 @@ Some LoRa projects w/ Meshtastic
 <br><br>
 
 ## Reference
-[Meshtastic Device GitHub](https://github.com/meshtastic/Meshtastic-device)
-[Heltec CubeCell Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino)
-[Heltec CubeCell PlatformIO ASR650x](https://github.com/HelTecAutomation/platform-asrmicro650x)
-[RadioLib](https://github.com/jgromes/RadioLib)
+[Meshtastic Device GitHub](https://github.com/meshtastic/Meshtastic-device) <br>
+[Heltec CubeCell Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino) <br>
+[Heltec CubeCell PlatformIO ASR650x](https://github.com/HelTecAutomation/platform-asrmicro650x) <br>
+[RadioLib](https://github.com/jgromes/RadioLib) <br>
